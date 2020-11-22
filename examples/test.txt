@@ -1,0 +1,1 @@
+Fichier contenant du texte afin de pouvoir la fonction de chiffrement. Cette dernière va ouvrir ce fichier, le chiffrer, et stocké son contenu dans un nouveau fichier. 
